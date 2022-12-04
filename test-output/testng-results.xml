@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Hello Java]]>
+    </line>
+    <line>
+      <![CDATA[Hello API]]>
+    </line>
+    <line>
+      <![CDATA[Hello selenium]]>
+    </line>
+    <line>
+      <![CDATA[Hello Python]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-04T11:41:55 PST" name="Suite" finished-at="2022-12-04T11:41:55 PST" duration-ms="58">
+    <groups>
+    </groups>
+    <test started-at="2022-12-04T11:41:55 PST" name="Test" finished-at="2022-12-04T11:41:55 PST" duration-ms="58">
+      <class name="Scripts.Testcase4">
+        <test-method signature="tc4()[pri:0, instance:Scripts.Testcase4@294425a7]" started-at="2022-12-04T11:41:55 PST" name="tc4" finished-at="2022-12-04T11:41:55 PST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hello API]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- Scripts.Testcase4 -->
+      <class name="Scripts.Testcase1">
+        <test-method signature="tc1()[pri:0, instance:Scripts.Testcase1@4466af20]" started-at="2022-12-04T11:41:55 PST" name="tc1" finished-at="2022-12-04T11:41:55 PST" duration-ms="15" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hello Java]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- Scripts.Testcase1 -->
+      <class name="Scripts.Testcase2">
+        <test-method signature="tc2()[pri:0, instance:Scripts.Testcase2@67d48005]" started-at="2022-12-04T11:41:55 PST" name="tc2" finished-at="2022-12-04T11:41:55 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hello selenium]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- Scripts.Testcase2 -->
+      <class name="Scripts.Testcase3">
+        <test-method signature="tc3()[pri:0, instance:Scripts.Testcase3@9f116cc]" started-at="2022-12-04T11:41:55 PST" name="tc3" finished-at="2022-12-04T11:41:55 PST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hello Python]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- Scripts.Testcase3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
